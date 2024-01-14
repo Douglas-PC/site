@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>DouglasPC.com</title>
+    <link href="https://github.com/Douglas-PC/site/feed.xml" rel="self" />
+    <link href="https://github.com/Douglas-PC/site" />
+    <updated>2024-01-14T16:11:47-05:00</updated>
+    <author>
+        <name>Eric Douglas</name>
+    </author>
+    <id>https://github.com/Douglas-PC/site</id>
+
+    <entry>
+        <title>Services</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://github.com/Douglas-PC/site/services/"/>
+        <id>https://github.com/Douglas-PC/site/services/</id>
+
+        <updated>2024-01-14T16:11:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services. We look&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services.  We look at your needs, requirements, and into the workflow of the processes involved so to provide a optimizations' of what we have seen in past, and recent research and discovery of many of todays top providers and innovators in several industries, including AI, marketing, sales, communications, internet, and connecting multiple locations with safe secure protections in place for traffic, emails, websites, and online reputation with compliance and future planning in mind.  We can help or take most of the managements of tech services role for your company or business.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
