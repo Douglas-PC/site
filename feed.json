@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DouglasPC.com",
     "description": "",
-    "home_page_url": "https://douglaspc.com",
-    "feed_url": "https://douglaspc.com/feed.json",
+    "home_page_url": "https://brevardpc.com",
+    "feed_url": "https://brevardpc.com/feed.json",
     "user_comment": "",
-    "icon": "https://douglaspc.com/media/website/Douglas_PC_Logo.svg",
+    "icon": "https://brevardpc.com/media/website/Douglas_PC_Logo.svg",
     "author": {
         "name": "Eric Douglas"
     },
     "items": [
         {
-            "id": "https://douglaspc.com/services/",
-            "url": "https://douglaspc.com/services/",
+            "id": "https://brevardpc.com/services/",
+            "url": "https://brevardpc.com/services/",
             "title": "Services",
             "summary": "Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services. We look&hellip;",
             "content_html": "<p>Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services.  We look at your needs, requirements, and into the workflow of the processes involved so to provide a optimizations' of what we have seen in past, and recent research and discovery of many of todays top providers and innovators in several industries, including AI, marketing, sales, communications, internet, and connecting multiple locations with safe secure protections in place for traffic, emails, websites, and online reputation with compliance and future planning in mind.  We can help or take most of the managements of tech services role for your company or business.</p>",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2024-01-14T16:11:47-05:00",
-            "date_modified": "2024-01-14T16:11:47-05:00"
+            "date_modified": "2024-01-19T19:41:52-05:00"
         }
     ]
 }

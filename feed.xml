@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>DouglasPC.com</title>
-    <link href="https://douglaspc.com/feed.xml" rel="self" />
-    <link href="https://douglaspc.com" />
-    <updated>2024-01-14T16:11:47-05:00</updated>
+    <link href="https://brevardpc.com/feed.xml" rel="self" />
+    <link href="https://brevardpc.com" />
+    <updated>2024-01-19T19:41:52-05:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
-    <id>https://douglaspc.com</id>
+    <id>https://brevardpc.com</id>
 
     <entry>
         <title>Services</title>
         <author>
             <name>Eric Douglas</name>
         </author>
-        <link href="https://douglaspc.com/services/"/>
-        <id>https://douglaspc.com/services/</id>
+        <link href="https://brevardpc.com/services/"/>
+        <id>https://brevardpc.com/services/</id>
 
-        <updated>2024-01-14T16:11:47-05:00</updated>
+        <updated>2024-01-19T19:41:52-05:00</updated>
             <summary>
                 <![CDATA[
                     Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services. We look&hellip;
