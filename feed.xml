@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BrevardPC.com</title>
+    <link href="https://brevardpc.com/feed.xml" rel="self" />
+    <link href="https://brevardpc.com" />
+    <updated>2024-04-02T20:19:34-04:00</updated>
+    <author>
+        <name>Eric Douglas</name>
+    </author>
+    <id>https://brevardpc.com</id>
+
+    <entry>
+        <title>Tech Support</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/tech-support/"/>
+        <id>https://brevardpc.com/tech-support/</id>
+
+        <updated>2022-11-21T16:14:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent. If you struggle with keeping up to date on the most effective ways to modernize your business we&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent.  If you struggle with keeping up to date on the most effective ways to modernize your business we would enjoy to be your trusted advisor to help find solutions to the areas that would benefit the most for your company. </p>
+<p>Contact us for technical services, computer technical support, or tech equipment advisement, consulting, and sales for software and hardware equipment computers, laptops, and tablets. </p>
+<p>Contact Eric @ Brevard PC - 321-302-0036, located in just north of Titusville, FL.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

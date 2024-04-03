@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BrevardPC.com",
+    "description": "",
+    "home_page_url": "https://brevardpc.com",
+    "feed_url": "https://brevardpc.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eric Douglas"
+    },
+    "items": [
+        {
+            "id": "https://brevardpc.com/tech-support/",
+            "url": "https://brevardpc.com/tech-support/",
+            "title": "Tech Support",
+            "summary": "Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent. If you struggle with keeping up to date on the most effective ways to modernize your business we&hellip;",
+            "content_html": "<p>Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent.  If you struggle with keeping up to date on the most effective ways to modernize your business we would enjoy to be your trusted advisor to help find solutions to the areas that would benefit the most for your company. </p>\n<p>Contact us for technical services, computer technical support, or tech equipment advisement, consulting, and sales for software and hardware equipment computers, laptops, and tablets. </p>\n<p>Contact Eric @ Brevard PC - 321-302-0036, located in just north of Titusville, FL.</p>\n<p> </p>",
+            "author": {
+                "name": "Eric Douglas"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-21T16:14:42-05:00",
+            "date_modified": "2024-04-02T20:19:34-04:00"
+        }
+    ]
+}
